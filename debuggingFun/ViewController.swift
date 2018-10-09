@@ -9,7 +9,13 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    // MARK: - Debugging
+    // 1. syntax/compiler
+    // cmd + B to build and if you have errors or warnings they will show up in multiple places
+    // 2. runtime
+    // 3. logic
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
